@@ -23,6 +23,6 @@ Decision Rule:
 
 $$if F * < F(r-1,n*r2-3*r+2) (1-𝛼) = 2.852$$, conclude $H_o$
 
-$$\if F * > F(r-1,n*r2-3*r+2) (1-𝛼) = 2.852\$$, conclude $H_𝛼$
+$$if F * > F(r-1,n*r2-3*r+2) (1-𝛼) = 2.852$$, conclude $H_𝛼$
 
 Please take a look at our report
