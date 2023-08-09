@@ -27,4 +27,5 @@ then, conclude $H_o$
 $$if F * > F(r-1,n*r2-3*r+2) (1-𝛼) = 2.852$$
 then, conclude $H_𝛼$
 
-Please take a look at our report
+Link to the report:
+[https://github.com/hrhee8/Exposure-to-Color-Anxiety---SAS/blob/main/Report.pdf]
